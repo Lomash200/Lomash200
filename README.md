@@ -102,10 +102,6 @@ Full-stack web application with a responsive front-end and server-side reservati
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lomash200&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Lomash200&theme=tokyonight&hide_border=true" />
 </p>
 
